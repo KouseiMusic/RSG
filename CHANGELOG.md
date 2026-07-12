@@ -23,7 +23,7 @@
 
 ### 𝐈𝐦𝐩𝐫𝐨𝐯𝐞𝐝 𝐑𝐚𝐧𝐝𝐨𝐦 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧
 
-- Random generation now picks sounds from a much wider pool for every genre, so the sound changes as much as the rhythm does on every reroll instead of repeating the same handful of sounds
+- Random generation now picks sounds from a much wider pool for every genre, allowing the sound to change as much as the rhythm does on every reroll instead of repeating the same handful of sounds
 
 - Each genre still only draws from sounds that suit its style, so results stay true to that genre's character
 
