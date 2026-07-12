@@ -9,7 +9,7 @@
 
 ### 𝐍𝐞𝐰 𝐒𝐨𝐮𝐧𝐝𝐬 𝐌𝐞𝐧𝐮
 
-- Added a new "Sounds" button next to "Presets" that opens a menu for choosing what each drum channel sounds like
+- Added a new "Sounds" button next to "Presets" that opens a menu for allowing to choose what each channel plays
 
 - Each channel can be set to a specific sample from the library or to a version generated live by the sound engine instead of a recording
 
