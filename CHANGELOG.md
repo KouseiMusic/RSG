@@ -13,7 +13,7 @@
 
 - Each channel can be set to a specific sample from the library or to a version generated live by the sound engine instead of a recording.
 
-- The two percussion channels get four extra generated sounds to pick from: cowbell, clave, conga and shaker.
+- The two percussion's channels get four extra generated sounds to pick from: cowbell, clave, conga and shaker.
 
 ### 𝐍𝐞𝐰 𝐆𝐞𝐧𝐫𝐞: 𝐏𝐨𝐬𝐭𝐩𝐮𝐧𝐤 / 𝐂𝐨𝐥𝐝𝐰𝐚𝐯𝐞
 
